@@ -140,6 +140,7 @@ ul {
 .nav-logo img {
     height: 45px;
     width: auto;
+    mix-blend-mode: lighten;
 }
 
 .nav-list {
